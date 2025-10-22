@@ -98,7 +98,6 @@ Interactive gaming collection featuring multiplayer games
 
 🔭 I'm currently working on expanding my portfolio with innovative AI-integrated applications  
 🌱 Learning advanced algorithms and data structures  
-👯 Looking to collaborate on open source projects  
 💬 Ask me about JavaScript, web development, or AI integration  
 ⚡ Fun fact: I love solving complex problems with creative solutions!
 
